@@ -144,6 +144,7 @@ scale: 1.01 1.01;
     text-align: center;
 }
 .blogs .blogsContent .left img{
+    min-width: 100px;
     max-width: 170px;
     border-radius: 10px;
 }
@@ -155,6 +156,7 @@ scale: 1.01 1.01;
 .blogs .blogsContent .right .username{
     text-align: end;
     color: #02ccff;
+    padding-top: 10vh;
 }
 
 .blogs{
